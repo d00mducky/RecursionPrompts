@@ -1,3 +1,5 @@
+# The original project repo can be found here: https://github.com/JS-Challenges/recursion-prompts
+
 # Recursion Prompts
 
 ### **What is this?**
